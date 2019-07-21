@@ -14,7 +14,7 @@ This package comes with an entire suite of tests. It consists of both Unit and I
 
 ` dotnet test Test.sln `
 
-## Find the best BNN
+## Find The Best BNN
 We provide a simeple interface for putting in data, defining the number of hidden layers and specify the desired accurracy. This will then run our algorrithm and find the best neural net with the desired accuracy.
 
 `dotnet run`
