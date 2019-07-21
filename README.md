@@ -23,5 +23,11 @@ Given the limitations of Quantum bits we only support 2 bit data, and so the tra
 Input arguments in the form of "x1 x2 y". For example "0 0 1", meaning the net takes in x as "0 0" and outputs "1".
 ![Interface Example](images/interface_example.png)
 
+We also prove a small tool to visualize the neural net that the algorithm finds. Once you have run `dotnet run` and generated the "weights.txt" file, run the python script.
+
+`python viz_net.py`
+
+![Net](images/net.png)
+
 # Note
 If you use this work please cite this github repo.
