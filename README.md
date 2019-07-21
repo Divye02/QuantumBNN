@@ -9,11 +9,11 @@ Essentially we use Grover’s algorithm to search over all hyper-planes of the w
 
 # Running Things
 
-# Tests
+## Tests
 This package comes with an entire suite of tests. It consists of both Unit and Integration testings.
 ` dotnet test Test.sln `
 
-# Find the best BNN
+## Find the best BNN
 We provide a simeple interface for putting in data, defining the number of hidden layers and specify the desired accurracy. This will then run our algorrithm and find the best neural net with the desired accuracy.
 `dotnet run`
 Given the limitations of Quantum bits we only support 2 bit data, and so the trademark neural net in this case is for the XOR gate
