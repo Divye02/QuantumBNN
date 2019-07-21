@@ -1,0 +1,14 @@
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/Testing.deps.json
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/Testing.runtimeconfig.json
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/Testing.runtimeconfig.dev.json
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/Testing.dll
+/Users/divye/Documents/projects/QuantumBNN/bin/Debug/netcoreapp2.1/Testing.pdb
+/Users/divye/Documents/projects/QuantumBNN/obj/Debug/netcoreapp2.1/Testing.csprojAssemblyReference.cache
+/Users/divye/Documents/projects/QuantumBNN/obj/Debug/netcoreapp2.1/Testing.csproj.CoreCompileInputs.cache
+/Users/divye/Documents/projects/QuantumBNN/obj/Debug/netcoreapp2.1/Testing.AssemblyInfoInputs.cache
+/Users/divye/Documents/projects/QuantumBNN/obj/Debug/netcoreapp2.1/Testing.AssemblyInfo.cs
+/Users/divye/Documents/projects/QuantumBNN/obj/Debug/netcoreapp2.1/Testing.dll
+/Users/divye/Documents/projects/QuantumBNN/obj/Debug/netcoreapp2.1/Testing.pdb
